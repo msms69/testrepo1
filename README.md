@@ -1,2 +1,2 @@
 # testrepo1
-testrepo1 is created
+testrepo1 is created.
